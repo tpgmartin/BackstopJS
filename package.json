@@ -2,7 +2,9 @@
   "name": "BackstopJS",
   "version": "0.0.0",
   "description": "",
-  "scripts": {},
+  "scripts": {
+    "install": "sudo npm install -g gulp && sudo npm install -g phantomjs && sudo npm install -g casperjs"
+  },
   "author": "",
   "license": "",
   "main": "",
